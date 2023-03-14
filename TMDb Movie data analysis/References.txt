@@ -1,0 +1,15 @@
+LIST OF REFERENCES..
+1. Creating numpy arrays:
+https://stackoverflow.com/questions/18646076/add-numpy-array-as-column-to-pandas-data-frame
+
+2. Change scientific notation :
+https://stackoverflow.com/questions/28371674/prevent-scientific-notation
+
+3. How to rearrange a dataframe's column:
+https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns#:~:text=You%20need%20to%20create%20a,columns%20in%20this%20new%20order.
+https://www.w3schools.com/python/pandas/ref_df_reindex.asp
+
+4. Resetting index of dataframe (using df.reset_index() method) after dropping some rows:
+https://www.geeksforgeeks.org/pandas-how-to-reset-index-in-a-given-dataframe/
+
+The data analysis channel on slack was also really helpful in getting answers to so many questions.
